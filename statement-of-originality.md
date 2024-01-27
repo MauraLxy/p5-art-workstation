@@ -1,20 +1,4 @@
----
-# for information on what this file is, see
-# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
 
-# for styling of references, see
-# https://www.acm.org/publications/authors/reference-formatting
-
-declaration: >-
-  I declare that everything I have submitted in this assignment is entirely my
-  own work except for the references listed below
-
-# sign *your* name and uid here
-name: Xingyu Liu
-uid: u7354057
-
-# list numbered references below (replace the example with your own references) 
----
 # References
 - [1] color RGB value. 2022. color RGB. Retrieved from https://www.color-name.com/
 - [2] Tree joke. 2022. Jokes about trees. Retrieved from https://www.scarymommy.com/tree-jokes
